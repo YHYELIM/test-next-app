@@ -11,6 +11,7 @@ export default function Home() {
         <div><Link href="/rendering" className="text-blue-500 hover:underline">렌더링 방식 예제로 이동</Link></div>
         <div><Link href="/dashboard" className="text-blue-500 hover:underline">대시보드로 이동</Link></div>
         <div><Link href="/data-fetching" className="text-blue-500 hover:underline">데이터 페칭 예제로 이동</Link></div>
+        <div><Link href="/server-actions" className="text-blue-500 hover:underline">서버 액션 예제로 이동</Link></div>
       </div>
     </div>
   )
